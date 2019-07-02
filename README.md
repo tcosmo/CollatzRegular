@@ -1,5 +1,5 @@
 # CollatzRegular
-Code associated to the paper "First Occurrence of Parity Vectors and the Regular Structure of k-Span Predecessor Sets in the Collatz Graph".
+Code associated to the paper "First Occurrence of Parity Vectors and the Regular Structure of k-Span Predecessor Sets in the Collatz Graph", [arxiv:1907.00775](https://arxiv.org/abs/1907.00775).
 
 # Structure of this Repo
 
