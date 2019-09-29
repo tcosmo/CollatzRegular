@@ -1,7 +1,7 @@
 # CollatzRegular
 Code associated to the paper "First Occurrence of Parity Vectors and the Regular Structure of k-Span Predecessor Sets in the Collatz Graph", [arxiv:1907.00775](https://arxiv.org/abs/1907.00775).
 
-This code is also associated to an improved version of that paper called "Collatz Predecessor Sets Partition into Regular Languages". In this version, there is only one algorithm which is shown which is the one which derives regular expressions (Algorithm 2 in the arxiv version). 
+This code is also associated to an improved version of that paper called "Collatz Predecessor Sets Partition into Regular Languages". In this version, only one algorithm is shown which is the one which derives regular expressions (Algorithm 2 in the arxiv version). 
 
 # Structure of this Repo
 
